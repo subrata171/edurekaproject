@@ -1,5 +1,7 @@
 class subrata{
                public static void main(String[] args){
-                 System.out.print("This is the first program here");
+                 System.out.println("This is the first program here");
+                 System.out.printlm("Adding 2nd line");
+                 System.out.printlm("Adding 3rd Line");
 }
 }
